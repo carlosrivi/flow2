@@ -54,10 +54,6 @@ A continuación puede verse una vista previa del resultado de este flow.
 
 ![evidencia de flow 2](https://github.com/carlosrivi/flow2/blob/main/Captura%20desde%202023-05-24%2019-54-26.png)
 
-## Evidencias
-
-
-
 # Créditos
 
 Desarrollado por Andrés Rivera
